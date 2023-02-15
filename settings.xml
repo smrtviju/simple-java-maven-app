@@ -5,25 +5,15 @@
 
   <servers>
     <server>
-      <id>simple-java-maven-app-snapshots</id>
+      <id>simple-java-maven-app-snapshot</id>
       <username>admin</username>
-      <password>Passw0rd</password>
+      <password>mahaviju</password>
     </server>
     <server>
-      <id>simple-java-maven-app-releases</id>
+      <id>simple-java-maven-app-release</id>
       <username>admin</username>
-      <password>Passw0rd</password>
+      <password>mahaviju</password>
     </server>
   </servers>
-
-  <mirrors>
-    <mirror>
-      <id>central</id>
-      <name>central</name>
-      <url>http://35.73.240.166:8081/repository/simple-java-maven-app-central/</url>
-      <mirrorOf>*</mirrorOf>
-    </mirror>
-  </mirrors>
-
 
 </settings>
