@@ -85,7 +85,7 @@
     </snapshotRepository>
     <repository>
       <id>simple-java-maven-app-release</id>
-      <url>http://172.31.16.8/repository/simple-java-maven-app-release/</url>
+      <url>http://172.31.16.8:8081/repository/simple-java-maven-app-release/</url>
     </repository>
   </distributionManagement>
 </project>
